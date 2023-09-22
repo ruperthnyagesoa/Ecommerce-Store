@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
+    "start": "npm run dev",
     "format": "prettier --write \"src/**/*.{js,jsx,html,css,json}\""
   },
   "dependencies": {
